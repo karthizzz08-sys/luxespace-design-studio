@@ -5,8 +5,8 @@ import living from "@/assets/project-living.jpg";
 import dining from "@/assets/project-dining.jpg";
 import closet from "@/assets/project-closet.jpg";
 
-export const WHATSAPP_NUMBER = "919999999999"; // +91 99999 99999
-export const PHONE = "+91 99999 99999";
+export const WHATSAPP_NUMBER = "917200101470"; // +91 72001 01470
+export const PHONE = "+91 72001 01470";
 export const EMAIL = "hello@luxespace.design";
 export const ADDRESS = "12 Design District, Mumbai, India";
 
